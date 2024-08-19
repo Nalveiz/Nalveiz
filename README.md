@@ -1,4 +1,4 @@
-![MasterHead]https://aix.web.tr/wp-content/uploads/2023/08/2023un-En-Iyi-Yapay-Zeka-Yazilimlari.png
+
 <h1 align="center">Hi 👋, I'm Mustafa Özer</h1>
 <h3 align="center">Fullstack Developer | Ecole 42 Turkey Student</h3>
 
